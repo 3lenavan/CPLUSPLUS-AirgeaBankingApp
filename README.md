@@ -1,6 +1,6 @@
 # Airgead Banking App C++
 
-**Summary:** The Airgead Banking App is developed to track investments over time, with and without additional monthly deposits. The primary goal of this project is to provide users with a clear understanding of how their initial investment grows over time based on annual interest rates, with the option to include monthly contributions.
+- [Summary](#Summary)
 
 For instance, the project involves creating a system that calculates the annual interest and overall balance for a user’s investment, both with and without monthly deposits. This helps address issues such as financial planning and investment tracking by providing users with an idea of how much they can expect for future growth based on various inputs like initial investment amount, monthly contributions, and interest rates. The project is implemented using object-oriented programming and file handling.
 
